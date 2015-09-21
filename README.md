@@ -43,3 +43,15 @@ Configuration Changes
 - Configured Apache to serve a Python mod_wsgi application.
 - Remote connections to PostgreSQL are not allowed.
 - A PostgreSQL user named "catalog" was created with limited permisions.
+
+
+Resources
+---------------------------------------
+- [SSH Keys](https://wiki.archlinux.org/index.php/SSH_keys)
+- [SSH/OpenSSH/Configuring](https://help.ubuntu.com/community/SSH/OpenSSH/Configuring)
+- [How To Install and Use PostgreSQL on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-14-04)
+- [mod_wsgi (Apache)](http://flask.pocoo.org/docs/0.10/deploying/mod_wsgi/)
+- [How To Protect SSH with Fail2Ban on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-protect-ssh-with-fail2ban-on-ubuntu-14-04)
+- [Automatic Updates](https://help.ubuntu.com/lts/serverguide/automatic-updates.html)
+- [Glances](https://github.com/nicolargo/glances/blob/master/docs/glances-doc.rst)
+
