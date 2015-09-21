@@ -3,6 +3,8 @@ Linux Server Configuration
 
 Project 5 for Udacity Full Stack Nano Degree.
 
+A linux server is cofigured to run Apache HTTP server and host a Python application made with Flask.
+
 
 Log In
 --------------------------------------
